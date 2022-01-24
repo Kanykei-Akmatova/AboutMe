@@ -1,2 +1,2 @@
-# AboutMe
-Static about me page
+# AboutMe html page
+Static html page
